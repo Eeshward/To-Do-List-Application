@@ -2,10 +2,7 @@
 
 A simple and responsive **To-Do List** web application built using **HTML, CSS, and JavaScript**. This project helps users organize their daily tasks efficiently with an intuitive interface and local storage support.
 ## 🚀 Live Demo
-[
-🔗 https://eeshward.github.io/To-Do-List-Application/
-
-> Replace the above link with your GitHub Pages URL after deployment.](https://eeshward.github.io/To-Do-List-Application/)
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-blue?style=for-the-badge)](https://eeshward.github.io/To-Do-List-Application/)
 
 ---
 ## ✨ Features

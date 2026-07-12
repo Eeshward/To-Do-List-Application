@@ -1,42 +1,66 @@
 # 📝 To-Do List Application
 
-A responsive To-Do List application built using HTML, CSS, and JavaScript.
+A simple and responsive **To-Do List** web application built using **HTML, CSS, and JavaScript**. This project helps users organize their daily tasks efficiently with an intuitive interface and local storage support.
+## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://srisakshi-12.github.io/To-Do-List-Application/)
-[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SRISAKSHI-12/To-Do-List-Application)
+🔗 https://eeshward.github.io/To-Do-List-Application/
 
+> Replace the above link with your GitHub Pages URL after deployment.
+
+---
 ## ✨ Features
-
-- ➕ Add Tasks
-- ✅ Mark Tasks as Completed
-- 🗑 Delete Tasks
-- 💾 Local Storage Support
-- 📱 Responsive Design
-
-## 🛠 Technologies Used
-
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ✏️ Edit existing tasks
+- 🗑 Delete tasks
+- 💾 Save tasks using Local Storage
+- 📱 Responsive design
+- ⌨️ Press Enter to quickly add tasks
+---
+## 🛠️ Tech Stack
 - HTML5
 - CSS3
 - JavaScript
 - Local Storage
-
+---
 ## 📂 Project Structure
-
-```text
-To-Do-List-Application
+```
+To-Do-List-Application/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
+│── .gitignore
 │── screenshots/
 ```
-## 🚀 How to Run
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-## 📸 Project Output
-### Home Screen
+---
+## 📸 Screenshots
+### Home Page
 ![Home](screenshots/home.png)
-### Tasks Added
+### Task Management
 ![Tasks](screenshots/tasks.png)
-## 👩‍💻 Author
-Karnatakam Sakshi
+---
+## ⚙️ How to Run
+1. Clone the repository
+```bash
+git clone https://github.com/Eeshward/To-Do-List-Application.git
+```
+2. Open the project folder.
+3. Double-click **index.html** or open it using any web browser.
+---
+## 🎯 Future Enhancements
+- 🌙 Dark Mode
+- 🔍 Search Tasks
+- 📅 Due Date Support
+- ⭐ Task Priority
+- 📊 Progress Tracker
+- 🎨 Improved UI/UX
+---
+## 👨‍💻 Author
+**Dharavath Eeshwar**
+- GitHub: https://github.com/Eeshward
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
